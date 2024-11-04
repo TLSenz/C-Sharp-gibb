@@ -1,0 +1,7 @@
+C:\Users\41782\C#Gibb\C-Sharp-gibb\C-Sharp-gibb\Sec_per_month\obj\Debug\Sec_per_month.csproj.AssemblyReference.cache
+C:\Users\41782\C#Gibb\C-Sharp-gibb\C-Sharp-gibb\Sec_per_month\obj\Debug\Sec_per_month.csproj.CoreCompileInputs.cache
+C:\Users\41782\C#Gibb\C-Sharp-gibb\C-Sharp-gibb\Sec_per_month\bin\Debug\Sec_per_month.exe.config
+C:\Users\41782\C#Gibb\C-Sharp-gibb\C-Sharp-gibb\Sec_per_month\bin\Debug\Sec_per_month.exe
+C:\Users\41782\C#Gibb\C-Sharp-gibb\C-Sharp-gibb\Sec_per_month\bin\Debug\Sec_per_month.pdb
+C:\Users\41782\C#Gibb\C-Sharp-gibb\C-Sharp-gibb\Sec_per_month\obj\Debug\Sec_per_month.exe
+C:\Users\41782\C#Gibb\C-Sharp-gibb\C-Sharp-gibb\Sec_per_month\obj\Debug\Sec_per_month.pdb
