@@ -1,0 +1,3 @@
+C:/Users/41782/C-Sharp-gibb/cmake-build-debug/CMakeFiles/C_Sharp_gibb.dir
+C:/Users/41782/C-Sharp-gibb/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/41782/C-Sharp-gibb/cmake-build-debug/CMakeFiles/rebuild_cache.dir
