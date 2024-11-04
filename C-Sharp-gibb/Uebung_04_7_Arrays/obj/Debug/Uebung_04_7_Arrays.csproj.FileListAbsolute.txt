@@ -1,0 +1,7 @@
+C:\Users\41782\C#Gibb\C-Sharp-gibb\C-Sharp-gibb\Uebung_04_7_Arrays\obj\Debug\Uebung_04_7_Arrays.csproj.AssemblyReference.cache
+C:\Users\41782\C#Gibb\C-Sharp-gibb\C-Sharp-gibb\Uebung_04_7_Arrays\obj\Debug\Uebung_04_7_Arrays.csproj.CoreCompileInputs.cache
+C:\Users\41782\C#Gibb\C-Sharp-gibb\C-Sharp-gibb\Uebung_04_7_Arrays\bin\Debug\Uebung_04_7_Arrays.exe.config
+C:\Users\41782\C#Gibb\C-Sharp-gibb\C-Sharp-gibb\Uebung_04_7_Arrays\bin\Debug\Uebung_04_7_Arrays.exe
+C:\Users\41782\C#Gibb\C-Sharp-gibb\C-Sharp-gibb\Uebung_04_7_Arrays\bin\Debug\Uebung_04_7_Arrays.pdb
+C:\Users\41782\C#Gibb\C-Sharp-gibb\C-Sharp-gibb\Uebung_04_7_Arrays\obj\Debug\Uebung_04_7_Arrays.exe
+C:\Users\41782\C#Gibb\C-Sharp-gibb\C-Sharp-gibb\Uebung_04_7_Arrays\obj\Debug\Uebung_04_7_Arrays.pdb
