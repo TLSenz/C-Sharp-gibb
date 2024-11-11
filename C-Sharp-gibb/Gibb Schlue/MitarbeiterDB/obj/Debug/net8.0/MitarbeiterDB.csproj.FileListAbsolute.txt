@@ -1,0 +1,15 @@
+C:\Users\41782\C#Gibb\C-Sharp-gibb\C-Sharp-gibb\Gibb Schlue\MitarbeiterDB\obj\Debug\net8.0\MitarbeiterDB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\41782\C#Gibb\C-Sharp-gibb\C-Sharp-gibb\Gibb Schlue\MitarbeiterDB\obj\Debug\net8.0\MitarbeiterDB.AssemblyInfoInputs.cache
+C:\Users\41782\C#Gibb\C-Sharp-gibb\C-Sharp-gibb\Gibb Schlue\MitarbeiterDB\obj\Debug\net8.0\MitarbeiterDB.AssemblyInfo.cs
+C:\Users\41782\C#Gibb\C-Sharp-gibb\C-Sharp-gibb\Gibb Schlue\MitarbeiterDB\obj\Debug\net8.0\MitarbeiterDB.csproj.CoreCompileInputs.cache
+C:\Users\41782\C#Gibb\C-Sharp-gibb\C-Sharp-gibb\Gibb Schlue\MitarbeiterDB\obj\Debug\net8.0\MitarbeiterDB.sourcelink.json
+C:\Users\41782\C#Gibb\C-Sharp-gibb\C-Sharp-gibb\Gibb Schlue\MitarbeiterDB\bin\Debug\net8.0\MitarbeiterDB.exe
+C:\Users\41782\C#Gibb\C-Sharp-gibb\C-Sharp-gibb\Gibb Schlue\MitarbeiterDB\bin\Debug\net8.0\MitarbeiterDB.deps.json
+C:\Users\41782\C#Gibb\C-Sharp-gibb\C-Sharp-gibb\Gibb Schlue\MitarbeiterDB\bin\Debug\net8.0\MitarbeiterDB.runtimeconfig.json
+C:\Users\41782\C#Gibb\C-Sharp-gibb\C-Sharp-gibb\Gibb Schlue\MitarbeiterDB\bin\Debug\net8.0\MitarbeiterDB.dll
+C:\Users\41782\C#Gibb\C-Sharp-gibb\C-Sharp-gibb\Gibb Schlue\MitarbeiterDB\bin\Debug\net8.0\MitarbeiterDB.pdb
+C:\Users\41782\C#Gibb\C-Sharp-gibb\C-Sharp-gibb\Gibb Schlue\MitarbeiterDB\obj\Debug\net8.0\MitarbeiterDB.dll
+C:\Users\41782\C#Gibb\C-Sharp-gibb\C-Sharp-gibb\Gibb Schlue\MitarbeiterDB\obj\Debug\net8.0\refint\MitarbeiterDB.dll
+C:\Users\41782\C#Gibb\C-Sharp-gibb\C-Sharp-gibb\Gibb Schlue\MitarbeiterDB\obj\Debug\net8.0\MitarbeiterDB.pdb
+C:\Users\41782\C#Gibb\C-Sharp-gibb\C-Sharp-gibb\Gibb Schlue\MitarbeiterDB\obj\Debug\net8.0\MitarbeiterDB.genruntimeconfig.cache
+C:\Users\41782\C#Gibb\C-Sharp-gibb\C-Sharp-gibb\Gibb Schlue\MitarbeiterDB\obj\Debug\net8.0\ref\MitarbeiterDB.dll

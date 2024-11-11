@@ -10,10 +10,10 @@ namespace Sec_per_month
     {
         static void Main(string[] args)
         {
-            const int SecPerDay = 86400;
+            const int secPerDay = 86400;
             Console.WriteLine("Wie viele Tage hat der Monat von dem du die Sekunden ausrechnen willst? 28,30, 31");
             int days = Convert.ToInt32(Console.ReadLine());
-            Console.WriteLine("Dein Monat hat " + (days * SecPerDay) + "Sekunden");
+            Console.WriteLine("Dein Monat hat " + (days * secPerDay) + "Sekunden");
             Console.ReadLine();
 
         }

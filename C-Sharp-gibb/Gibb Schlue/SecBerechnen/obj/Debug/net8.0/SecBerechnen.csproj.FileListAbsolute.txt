@@ -1,0 +1,15 @@
+C:\Users\41782\C#Gibb\C-Sharp-gibb\C-Sharp-gibb\Gibb Schlue\SecBerechnen\bin\Debug\net8.0\SecBerechnen.exe
+C:\Users\41782\C#Gibb\C-Sharp-gibb\C-Sharp-gibb\Gibb Schlue\SecBerechnen\bin\Debug\net8.0\SecBerechnen.deps.json
+C:\Users\41782\C#Gibb\C-Sharp-gibb\C-Sharp-gibb\Gibb Schlue\SecBerechnen\bin\Debug\net8.0\SecBerechnen.runtimeconfig.json
+C:\Users\41782\C#Gibb\C-Sharp-gibb\C-Sharp-gibb\Gibb Schlue\SecBerechnen\bin\Debug\net8.0\SecBerechnen.dll
+C:\Users\41782\C#Gibb\C-Sharp-gibb\C-Sharp-gibb\Gibb Schlue\SecBerechnen\bin\Debug\net8.0\SecBerechnen.pdb
+C:\Users\41782\C#Gibb\C-Sharp-gibb\C-Sharp-gibb\Gibb Schlue\SecBerechnen\obj\Debug\net8.0\SecBerechnen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\41782\C#Gibb\C-Sharp-gibb\C-Sharp-gibb\Gibb Schlue\SecBerechnen\obj\Debug\net8.0\SecBerechnen.AssemblyInfoInputs.cache
+C:\Users\41782\C#Gibb\C-Sharp-gibb\C-Sharp-gibb\Gibb Schlue\SecBerechnen\obj\Debug\net8.0\SecBerechnen.AssemblyInfo.cs
+C:\Users\41782\C#Gibb\C-Sharp-gibb\C-Sharp-gibb\Gibb Schlue\SecBerechnen\obj\Debug\net8.0\SecBerechnen.csproj.CoreCompileInputs.cache
+C:\Users\41782\C#Gibb\C-Sharp-gibb\C-Sharp-gibb\Gibb Schlue\SecBerechnen\obj\Debug\net8.0\SecBerechnen.sourcelink.json
+C:\Users\41782\C#Gibb\C-Sharp-gibb\C-Sharp-gibb\Gibb Schlue\SecBerechnen\obj\Debug\net8.0\SecBerechnen.dll
+C:\Users\41782\C#Gibb\C-Sharp-gibb\C-Sharp-gibb\Gibb Schlue\SecBerechnen\obj\Debug\net8.0\refint\SecBerechnen.dll
+C:\Users\41782\C#Gibb\C-Sharp-gibb\C-Sharp-gibb\Gibb Schlue\SecBerechnen\obj\Debug\net8.0\SecBerechnen.pdb
+C:\Users\41782\C#Gibb\C-Sharp-gibb\C-Sharp-gibb\Gibb Schlue\SecBerechnen\obj\Debug\net8.0\SecBerechnen.genruntimeconfig.cache
+C:\Users\41782\C#Gibb\C-Sharp-gibb\C-Sharp-gibb\Gibb Schlue\SecBerechnen\obj\Debug\net8.0\ref\SecBerechnen.dll
