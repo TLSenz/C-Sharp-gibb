@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("SecBerechnen")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("struktogram")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+135d3be95524e8bdc7a221c9d6f9217115eb6b3c")]
-[assembly: System.Reflection.AssemblyProductAttribute("SecBerechnen")]
-[assembly: System.Reflection.AssemblyTitleAttribute("SecBerechnen")]
+[assembly: System.Reflection.AssemblyProductAttribute("struktogram")]
+[assembly: System.Reflection.AssemblyTitleAttribute("struktogram")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Von der MSBuild WriteCodeFragment-Klasse generiert.

@@ -1,0 +1,15 @@
+C:\Users\41782\C#Gibb\C-Sharp-gibb\C-Sharp-gibb\Gibb Schlue\struktogram\bin\Debug\net8.0\struktogram.exe
+C:\Users\41782\C#Gibb\C-Sharp-gibb\C-Sharp-gibb\Gibb Schlue\struktogram\bin\Debug\net8.0\struktogram.deps.json
+C:\Users\41782\C#Gibb\C-Sharp-gibb\C-Sharp-gibb\Gibb Schlue\struktogram\bin\Debug\net8.0\struktogram.runtimeconfig.json
+C:\Users\41782\C#Gibb\C-Sharp-gibb\C-Sharp-gibb\Gibb Schlue\struktogram\bin\Debug\net8.0\struktogram.dll
+C:\Users\41782\C#Gibb\C-Sharp-gibb\C-Sharp-gibb\Gibb Schlue\struktogram\bin\Debug\net8.0\struktogram.pdb
+C:\Users\41782\C#Gibb\C-Sharp-gibb\C-Sharp-gibb\Gibb Schlue\struktogram\obj\Debug\net8.0\struktogram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\41782\C#Gibb\C-Sharp-gibb\C-Sharp-gibb\Gibb Schlue\struktogram\obj\Debug\net8.0\struktogram.AssemblyInfoInputs.cache
+C:\Users\41782\C#Gibb\C-Sharp-gibb\C-Sharp-gibb\Gibb Schlue\struktogram\obj\Debug\net8.0\struktogram.AssemblyInfo.cs
+C:\Users\41782\C#Gibb\C-Sharp-gibb\C-Sharp-gibb\Gibb Schlue\struktogram\obj\Debug\net8.0\struktogram.csproj.CoreCompileInputs.cache
+C:\Users\41782\C#Gibb\C-Sharp-gibb\C-Sharp-gibb\Gibb Schlue\struktogram\obj\Debug\net8.0\struktogram.sourcelink.json
+C:\Users\41782\C#Gibb\C-Sharp-gibb\C-Sharp-gibb\Gibb Schlue\struktogram\obj\Debug\net8.0\struktogram.dll
+C:\Users\41782\C#Gibb\C-Sharp-gibb\C-Sharp-gibb\Gibb Schlue\struktogram\obj\Debug\net8.0\refint\struktogram.dll
+C:\Users\41782\C#Gibb\C-Sharp-gibb\C-Sharp-gibb\Gibb Schlue\struktogram\obj\Debug\net8.0\struktogram.pdb
+C:\Users\41782\C#Gibb\C-Sharp-gibb\C-Sharp-gibb\Gibb Schlue\struktogram\obj\Debug\net8.0\struktogram.genruntimeconfig.cache
+C:\Users\41782\C#Gibb\C-Sharp-gibb\C-Sharp-gibb\Gibb Schlue\struktogram\obj\Debug\net8.0\ref\struktogram.dll
